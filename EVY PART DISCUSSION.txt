@@ -1,0 +1,85 @@
+DISCUSSION
+DESCRIBE BIOTECHNOLOGY
+Biotechnology is a field of science that combines biology with technology to develop innovative products and processes that improve our lives. It involves the use of living organisms, such as cells and bacteria, or their components to create or modify products, improve agricultural processes, or develop new therapies and medicines.
+
+Biotechnology has the potential to revolutionize various industries, improve healthcare outcomes, and contribute to a more sustainable future. However, it also raises ethical and social considerations, such as the responsible use of genetic modification, privacy concerns with genetic data, and equitable access to biotechnological advancements.
+HISTORY
+The history of biotechnology can be traced back to the earliest civilizations when humans began to use living organisms to produce food, beverages, and other products. For example, ancient Egyptians used yeast to make beer, and the Chinese developed fermentation techniques for brewing and cheese making.
+
+In the 19th century, advances in microbiology led to the development of new industrial processes that used living organisms. For example, the brewing industry began to use pure cultures of yeast, and the pharmaceutical industry began to produce vaccines and antibiotics using bacteria.
+
+The modern era of biotechnology began in the 1970s with the development of recombinant DNA technology. This technology allows scientists to insert genes from one organism into another, creating new organisms with desired properties. Recombinant DNA technology has revolutionized biotechnology, and it is now used in a wide variety of industries, including agriculture, medicine, and environmental science.
+
+Here are some of the key events in the history of biotechnology:
+
+1919: The Hungarian Károly Ereky coins the term "biotechnology".
+1953: James Watson and Francis Crick discover the structure of DNA.
+1972: Stanley Cohen and Herbert Boyer successfully recombine DNA from different organisms.
+1973: Genentech, the first biotechnology company, is founded.
+1975: The first recombinant DNA product, human insulin, is approved for human use.
+1982: The first genetically modified crop, a strain of tobacco resistant to the herbicide glyphosate, is approved for commercial cultivation.
+1996: The first cloned mammal, Dolly the sheep, is born.
+2003: The Human Genome Project is completed, mapping the entire human genome.
+2012: The first genetically modified food, a strain of corn resistant to the insect pest European corn borer, is approved for commercial cultivation in the United States.
+
+Biotechnology is a rapidly growing field with the potential to revolutionize many aspects of our lives. It is already being used to develop new drugs, vaccines, and diagnostic tests; improve crop yields and livestock productivity; and clean up environmental pollution. As the field of biotechnology continues to evolve, we can expect to see even more amazing advances in the years to come.
+PROS AND CONS
+Pros:
+Improved human health: Biotechnology can be used to develop new drugs and treatments for diseases, as well as to improve the safety and efficacy of existing treatments. For example, biotechnology has been used to develop vaccines against HIV, malaria, and hepatitis B.
+Increased food production: Biotechnology can be used to improve crop yields and make crops more resistant to pests and diseases. This can help to reduce food shortages and improve food security. For example, biotechnology has been used to develop crops that are resistant to herbicides, which allows farmers to use fewer chemicals and reduce their environmental impact.
+Cleaner environment: Biotechnology can be used to develop new ways to clean up pollution and to develop renewable energy sources. For example, biotechnology has been used to develop bacteria that can break down oil spills and to develop algae that can be used to produce biodiesel fuel.
+
+Cons:
+Potential for environmental harm: Biotechnology can have unintended consequences on the environment. For example, genetically modified crops could cross-pollinate with non-genetically modified crops, which could spread the modified genes to wild populations. This could have unforeseen consequences for the environment.
+Potential for human health risks: Biotechnology could pose risks to human health. For example, genetically modified foods could contain allergens that people are not used to, or they could interact with other medications in unexpected ways.
+Intellectual property rights: Biotechnology is a rapidly developing field, and there is a lot of uncertainty about intellectual property rights. This could stifle innovation and make it difficult for small companies to compete with larger companies.
+
+HOW NANOTECHNOLOGY WORKS IN DIFFERENT FOCUS AREA 
+Biotechnology encompasses a wide range of applications across various sectors, including healthcare, agriculture, environmental science, and industrial manufacturing. Some of the key areas within biotechnology include:
+
+1. Genetic Engineering: Manipulation of an organism's genetic material (DNA) to introduce new traits or modify existing ones. This technique has been instrumental in developing genetically modified crops, producing recombinant proteins, and advancing gene therapies.
+
+2. Pharmaceutical Biotechnology: Utilizing biotechnological tools to develop drugs and therapeutic agents. This includes the production of biopharmaceuticals, such as insulin and vaccines, using recombinant DNA technology and cell culture techniques.
+
+3. Agricultural Biotechnology: Applying biotechnology to improve crop yields, enhance nutritional content, and develop plants with resistance to pests, diseases, or environmental stresses. Genetic modification techniques play a crucial role in this area.
+
+4. Industrial Biotechnology: Employing biological processes or organisms to produce commercially valuable products. It involves the use of enzymes, microorganisms, or cell cultures to manufacture chemicals, biofuels, and other industrial materials in a more sustainable and eco-friendly manner.
+
+5. Environmental Biotechnology: Utilizing biological systems to address environmental issues, such as pollution remediation, waste management, and sustainable resource utilization. This includes bioremediation, where microorganisms are used to clean up contaminants in soil or water.
+
+Numerous issues, including infectious diseases, better food quality, a shortage of fossil fuels, etc., are solved thanks to biotechnology. Biotechnology aids in the discovery of alternative sources when the population grows and the availability of natural resources declines. In order to meet our daily needs, biotechnology is essential. 
+EXAMPLES OF BIOTECHNOLOGY:
+Biofuels
+Biomass, such as plant waste, animal waste, and algal material, is used to make biofuels. Biotechnology-based biofuel production can be extremely important given the rise in fuel prices and the depletion of fossil fuels. Because they reduce greenhouse gas emissions, biofuels serve as a renewable source of energy and are environmentally benign. Ethanol, biodiesel, and biogas all fall under the category of biofuel.
+Bioethanol
+Biodiesel
+Biogas
+Lactose-free Milk
+Lactose is a sugar naturally present in milk. It has smaller units called glucose and galactose. Lactose breaks down in our gut by the enzyme lactase. Some people cannot digest lactose and are lactose intolerant as they lack the enzyme lactase in their body. In such people, lactose remains as such in the gut and causes symptoms like nausea, bloating, cramps, etc. Thanks to biotechnology that has provided us with lactose free milk in the market. Such milk is pre-treated with lactase enzymes. This causes lactose to break down into glucose and galactose. This enzyme is produced in yeast called Kluyveromyces. Lactose free milk consist of single unit glucose and galactose, which are more soluble in water than lactose and can be easily absorbed by the gut.
+Skin Care Products
+Biotechnology has played an important role in cosmetology and aesthetic medicines. Botox is one of the prominent examples of biotechnology products in everyday life. Botox is a protein produced by the bacteria Clostridium botulinum. It paralyzes nerve cells, thereby reducing the wrinkles on the face. Hyaluronic acid is also a very important ingredient in anti-aging skin care. It is naturally present in the human body. In the laboratory, hyaluronic acid is formed by fermentation of glucose by certain bacteria like Streptococcus zooepidemicus, Escherichia coli, and Bacillus subtilis under right temperature and pH.
+Bioremediation
+Environmental pollution is a major global concern, but with the emerging bioremediation technology, we can easily control the damaging effects of pollutants. Bioremediation is a process in which microbes are used to degrade the toxic substances present in contaminated groundwater or soil and convert them into non toxic substances.
+Production of Antibiotics
+One of the many goods made using biotechnology is antibiotics. They are non-protein compounds made by soil-dwelling microorganisms. Numerous bacterial species, including those of the fungus Streptomyces, Bacillus, and Penicillium, generate antibiotics as secondary metabolites. Antibiotics are crucial in the fight against infectious diseases that affect both humans and animals.
+Vaccine Production
+The development of vaccinations against numerous dangerous diseases has benefited greatly from biotechnology. Pathogens that are dead or inactive, one of their surface proteins, or toxins produced by pathogens are used to make vaccines. Antibodies are produced by our immune system as a result of vaccination. These antibodies circulate in the blood for a long time as memory antibodies, and they will attack the infection if it reemerges in the future.
+Trends in Biotechnology
+Personalized Medicines
+Medical personnel can use genetic analysis to identify patient medical concerns thanks to personalized technologies. Doctors create one-of-a-kind, custom health solutions by utilizing DNA sequencing as the foundation for medical innovation. A further advantage of personalized medicine is that it makes use of data gathered from carefully chosen clinical trials, allowing health care providers to develop customized therapies and treatments using those findings. A rise in tailored therapy benefits general treatment since it locates medical problems at their molecular and genetic roots, the patient's molecular and genetic profile.
+Drug Research
+Biotech businesses can easily review and analyze data from past studies as well as data from ongoing trials. The information gained from this analysis and the capacity to merge large datasets paves the way for the development of improved treatments and medications for patients.
+Artificial Intelligence
+Biotech is one of the many industries that continues to benefit from artificial intelligence (AI). AI will dominate biotech trends in 2022, according to StartUs Insights. Through improved automation, biotech companies have used AI to streamline a number of operational operations. AI, for instance, can find biomarkers that are useful in developing medications and diagnostics. AI systems can also locate crop illnesses like leaf coloring or decay and may identify features of human diseases like cancer cells via picture classification. Phenotype screening and microbiome analysis are two other biotech uses for artificial intelligence.
+Big Data
+The amount of data available for analysis by biotech is more than ever. Biotech researchers now have unprecedented access to data because to sensor integration and the internet of things (IoT). Big data can enhance clinical trial participant recruitment, assist in the improvement of agriculture yields, and aid in the comprehension of recently discovered bacteria.
+
+
+BIOTECHNOLOGY IN THE PHILIPPINES
+The Philippines is the first ASEAN country to initiate a biotechnology regulatory system with the issuance of Executive Order No. 430 in 1990, which established the National Committee on Biosafety of the Philippines (NCBP). The country's biosafety regulatory system follows strict scientific standards and has become a model for member-countries of the ASEAN seeking to become producers of agricultural biotechnology crops.
+EVOLUTION OF THE PHILIPPINE BIOSAFETY SYSTEM
+In 1987, scientists from the University of the Philippines Los Banos (UPLB) and the International Rice Research Institute (IRRI), the Quarantine Officer of the Bureau of Plant Industry (BPI), and the Director for Crops of the Philippine Council for Agriculture, Forestry and Natural Resources Research and Development (PCARRD), recognizing the potential harm of the introduction of exotic species and genetic engineering, formed a committee and formulated the biosafety protocols and guidelines for genetic engineering and related research activities for UPLB and IRRI researchers. The committee went on to draft a Philippine biosafety policy, which was submitted to the Office of the President. 
+On October 15, 1990, recognizing the potential for modern biotechnology both in improving the lives of the people and in creating hazards if not handled properly, President Corazon C. Aquino issued Executive Order 430 creating the National Committee on Biosafety of the Philippines (NCBP) that will formulate, review and amend national policy on biosafety and formulate guidelines on the conduct of activities on genetic engineering. The NCBP is comprised of representative of the Departments of Agriculture (DA); Environment and Natural Resources (DENR); Health (DOH); and Science and Technology (DOST), 4 scientists in biology, environmental science, social science and physical science; and 2 respected members of the community. 
+On July 16, 2001, President Gloria Macapagal-Arroyo issued the Policy Statement on Modern Biotechnology, reiterating the government policy on promoting the safe and responsible use of modern biotechnology. On April 3, 2002, Department of Agriculture Administrative Order No. 8, Series of 2002 was issued implementing the guidelines for importation and release into the environment of Plants and Plant Products Derived from the Use of Modern Biotechnology. 
+On March 17, 2006, President Gloria Macapagal-Arroyo issued Executive Order No.514 Establishing the National Biosafety Framework, prescribing guidelines for its implementation, reorganizing the National Committee on Biosafety of the Philippines, and for other purposes. 
+On December 8, 2015, the Philippine Supreme Court declared DA AO8 null and void and any application for contained use, field testing, propagation and commercialization, and importation of GMOs was temporarily enjoined. In response to the nullification of DA AO8, the Technical Working Group composed of representatives from the Departments of Agriculture (DA), Science and Technology (DOST), Environment and Natural Resources (DENR), Health (DOH), and Interior and Local Government (DILG) drafted the Joint Department Circular No. 1, Series of 2016 (JDC No.1, S2016) titled 'Rules and Regulations for the Research and Development, Handling and Use, Transboundary Movement, Release into the Environment, and Management of Genetically-Modified Plant and Plant Products Derived from the Use of Modern Biotechnology'. There were a series of meetings and five public consultations conducted before the JDC No.1, S2016 was approved and signed by the Secretaries of the abovementioned agencies on March 7, 2016 and took effect on April 15, 2016. Under this Circular, more government agencies were involved such as the Department of Science and Technology (DOST) to regulate applications for contained use and confined test of regulated articles; Department of Agriculture (DA) to evaluate applications for field trial, commercial propagation and transboundary movement of regulated articles; Department of Environment and Natural Resources (DENR) to evaluate environmental risks and impacts of regulated articles; Department of Health (DOH) to evaluate of environmental health impacts of regulated articles; and Department of the Interior and Local Government (DILG) to supervise public consultation during field trial.
